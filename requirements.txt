@@ -1,0 +1,7 @@
+# Core CLI framework
+typer[all]
+
+# Libraries for CLI features
+rich
+InquirerPy
+Jinja2
